@@ -1,7 +1,8 @@
 #nginx
 #支持私库
 #romancin/tinymediamanager:latest
-romancin/tinymediamanager
+#romancin/tinymediamanager
+tinyMediaManager/tinyMediaManager
 #支持指定架构
 #--platform=linux/arm64 romancin/tinymediamanager
 #--platform=linux/amd64 romancin/tinymediamanager
