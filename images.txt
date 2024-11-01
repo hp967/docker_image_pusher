@@ -1,7 +1,7 @@
 #nginx
 #支持私库
 #romancin/tinymediamanager:latest
---platform=linux/arm64 pixman/pixman
+--platform=linux/amd64 pixman/pixman
 #dzhuang/tinymediamanager
 #tinyMediaManager/tinyMediaManager
 #支持指定架构
