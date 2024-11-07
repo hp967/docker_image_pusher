@@ -2,7 +2,8 @@
 #支持私库
 #romancin/tinymediamanager:latest
 #--platform=linux/amd64 yixinrushi/video_tools
-docker.io/yixinrushi/video_tools:latest
+yixinrushi/video_tools:latest
+#docker.io/yixinrushi/video_tools:latest
 #dzhuang/tinymediamanager
 #tinyMediaManager/tinyMediaManager
 #支持指定架构
