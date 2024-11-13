@@ -2,7 +2,7 @@
 #支持私库
 #romancin/tinymediamanager:latest
 #--platform=linux/amd64 yixinrushi/video_tools
-xhongc/music_tag_web:latest
+hanxi/xiaomusic
 #docker.io/yixinrushi/video_tools:latest
 #dzhuang/tinymediamanager
 #tinyMediaManager/tinyMediaManager
