@@ -2,7 +2,8 @@
 #支持私库
 #romancin/tinymediamanager:latest
 #--platform=linux/amd64 yixinrushi/video_tools
-youshandefeiyang/av3a-assistant:amd64
+4gray/iptvnator:latest
+4gray/iptvnatorbackend:latest
 #docker.io/yixinrushi/video_tools:latest
 #dzhuang/tinymediamanager
 #tinyMediaManager/tinyMediaManager
