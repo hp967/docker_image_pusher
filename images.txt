@@ -2,7 +2,7 @@
 #支持私库
 #romancin/tinymediamanager:latest
 #--platform=linux/amd64 yixinrushi/video_tools
-4gray/iptvnator-backend:latest
+lmk123/migpt-server
 #docker.io/yixinrushi/video_tools:latest
 #dzhuang/tinymediamanager
 #tinyMediaManager/tinyMediaManager
