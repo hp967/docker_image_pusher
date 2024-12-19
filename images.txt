@@ -2,7 +2,8 @@
 #支持私库
 #romancin/tinymediamanager:latest
 #--platform=linux/amd64 yixinrushi/video_tools
-hanxi/xiaomusic:latest
+photoprism/photoprism
+#hanxi/xiaomusic:latest
 #docker.io/yixinrushi/video_tools:latest
 #dzhuang/tinymediamanager
 #tinyMediaManager/tinyMediaManager
