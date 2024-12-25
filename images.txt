@@ -2,7 +2,7 @@
 #支持私库
 #romancin/tinymediamanager:latest
 #--platform=linux/amd64 yixinrushi/video_tools
-dockurr/umbrel
+portainer/portainer
 #jlesage/firefox
 #photoprism/photoprism
 #hanxi/xiaomusic:latest
