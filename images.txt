@@ -2,7 +2,7 @@
 #支持私库
 #romancin/tinymediamanager:latest
 #--platform=linux/amd64 yixinrushi/video_tools
-immich-app/immich-server
+cp0204/quark-auto-save
 #6053537/portainer-ce
 #jlesage/firefox
 #photoprism/photoprism
