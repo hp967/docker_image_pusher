@@ -1,7 +1,7 @@
 #nginx
 #支持私库
 #romancin/tinymediamanager:latest
-guovern/iptv-api:latest
+#guovern/iptv-api:latest
 #--platform=linux/amd64 yixinrushi/video_tools
 #cp0204/quark-auto-save
 #6053537/portainer-ce
