@@ -14,4 +14,5 @@
 #支持指定架构
 #--platform=linux/arm64 romancin/tinymediamanager
 #--platform=linux/amd64 romancin/tinymediamanager
-syncthing/syncthing:latest
+#syncthing/syncthing:latest
+xjliu2008/cloud-sync
