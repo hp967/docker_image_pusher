@@ -1,7 +1,8 @@
 #nginx
 #支持私库
+photoprism/photoprism
 #doubebly/doube-itv
-tailscale/tailscale
+#tailscale/tailscale
 #romancin/tinymediamanager:latest
 #youshandefeiyang/allinone:latest
 #yuexuangu/allinone_format
