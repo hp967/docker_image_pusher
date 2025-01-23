@@ -1,7 +1,7 @@
 #nginx
 #支持私库
-doubebly/doube-itv
-
+#doubebly/doube-itv
+tailscale/tailscale
 #romancin/tinymediamanager:latest
 #youshandefeiyang/allinone:latest
 #yuexuangu/allinone_format
