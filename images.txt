@@ -1,23 +1,23 @@
 #nginx
 #支持私库
-#photoprism/photoprism
-#doubebly/doube-itv
-#tailscale/tailscale
-#romancin/tinymediamanager:latest
-#youshandefeiyang/allinone:latest
-#yuexuangu/allinone_format
-#guovern/iptv-api:latest
+photoprism/photoprism
+doubebly/doube-itv
+tailscale/tailscale
+romancin/tinymediamanager:latest
+youshandefeiyang/allinone:latest
+yuexuangu/allinone_format
+guovern/iptv-api:latest
 #--platform=linux/amd64 yixinrushi/video_tools
-#cp0204/quark-auto-save
-#6053537/portainer-ce
-#jlesage/firefox
-#photoprism/photoprism
+cp0204/quark-auto-save
+6053537/portainer-ce
+jlesage/firefox
+photoprism/photoprism
 hanxi/xiaomusic:latest
-#docker.io/yixinrushi/video_tools:latest
-#dzhuang/tinymediamanager
-#tinyMediaManager/tinyMediaManager
+docker.io/yixinrushi/video_tools:latest
+dzhuang/tinymediamanager
+tinyMediaManager/tinyMediaManager
 #支持指定架构
 #--platform=linux/arm64 romancin/tinymediamanager
 #--platform=linux/amd64 romancin/tinymediamanager
-#syncthing/syncthing:latest
-#cloudnas/clouddrive2
+syncthing/syncthing:latest
+cloudnas/clouddrive2
