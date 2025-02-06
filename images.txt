@@ -1,6 +1,6 @@
 #nginx
 #支持私库
-photoprism/photoprism
+#photoprism/photoprism
 #doubebly/doube-itv
 #tailscale/tailscale
 #romancin/tinymediamanager:latest
@@ -12,7 +12,7 @@ photoprism/photoprism
 #6053537/portainer-ce
 #jlesage/firefox
 #photoprism/photoprism
-#hanxi/xiaomusic:latest
+hanxi/xiaomusic:latest
 #docker.io/yixinrushi/video_tools:latest
 #dzhuang/tinymediamanager
 #tinyMediaManager/tinyMediaManager
