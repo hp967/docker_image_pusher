@@ -21,3 +21,4 @@ tinyMediaManager/tinyMediaManager
 #--platform=linux/amd64 romancin/tinymediamanager
 syncthing/syncthing:latest
 cloudnas/clouddrive2
+homeassistant/home-assistant
