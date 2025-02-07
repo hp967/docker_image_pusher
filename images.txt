@@ -1,3 +1,4 @@
 #homeassistant/home-assistant:latest
 #youshandefeiyang/allinone
-yuexuangu/allinone_format:latest
+#yuexuangu/allinone_format:latest
+nyanmisaka/jellyfin
