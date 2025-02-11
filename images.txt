@@ -1,4 +1,5 @@
 #homeassistant/home-assistant:latest
 #youshandefeiyang/allinone
 #yuexuangu/allinone_format:latest
-nyanmisaka/jellyfin
+#nyanmisaka/jellyfin
+linzeyi/hivision_idphotos
