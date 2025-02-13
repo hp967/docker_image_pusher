@@ -2,4 +2,5 @@
 #youshandefeiyang/allinone
 #yuexuangu/allinone_format:latest
 #nyanmisaka/jellyfin
-linzeyi/hivision_idphotos
+#linzeyi/hivision_idphotos
+zeronews/zeronews
