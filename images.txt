@@ -1,7 +1,7 @@
-#homeassistant/home-assistant:latest
-#youshandefeiyang/allinone
-#yuexuangu/allinone_format:latest
-#nyanmisaka/jellyfin
-#linzeyi/hivision_idphotos
-#zeronews/zeronews
+homeassistant/home-assistant:latest
+youshandefeiyang/allinone
+yuexuangu/allinone_format:latest
+nyanmisaka/jellyfin
+linzeyi/hivision_idphotos
+zeronews/zeronews
 hongxiaoo/virtualhere
