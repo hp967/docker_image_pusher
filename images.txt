@@ -9,9 +9,9 @@
 #xhongc/music_tag_web
 #imsyy/dailyhot-api
 #zzzshanghai/doube-itv
-containrrr/watchtower
+#containrrr/watchtower
 #jlesage/firefox
 #photoprism/photoprism:latest
 #frooodle/s-pdf:latest
 #syncthing/syncthing
-#hanxi/xiaomusic
+hanxi/xiaomusic
