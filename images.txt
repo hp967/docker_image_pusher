@@ -5,3 +5,13 @@ nyanmisaka/jellyfin
 linzeyi/hivision_idphotos
 zeronews/zeronews
 hongxiaoo/virtualhere
+jiangrui1994/cloudsaver
+xhongc/music_tag_web
+imsyy/dailyhot-api
+zzzshanghai/doube-itv
+containrrr/watchtower
+jlesage/firefox
+photoprism/photoprism:latest
+frooodle/s-pdf:latest
+syncthing/syncthing
+hanxi/xiaomusic
