@@ -14,4 +14,5 @@
 #photoprism/photoprism:latest
 #frooodle/s-pdf:latest
 #syncthing/syncthing
-hanxi/xiaomusic
+#hanxi/xiaomusic
+steefdebruijn/docker-roonserver:latest
